@@ -43,6 +43,7 @@ I'm a full-stack developer with a background in marine biology and orchestral pe
 [![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)
 [![GraphQL](https://skillicons.dev/icons?i=graphql)](https://graphql.org)
 [![Sequelize](https://skillicons.dev/icons?i=sequelize)](https://sequelize.org)
+[![Prisma](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io)
 
 ### Tools
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
