@@ -2,7 +2,7 @@
 
 # Hi, I'm Ahmad Jutrzenka Ilyas 👋
 
-### Full Stack Developer | Hacktiv8 Graduate 
+### Full Stack Developer | Hacktiv8 Graduate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Jutrzenka%20Ilyas-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jutrzenka)
 [![Email](https://img.shields.io/badge/Email-zenkalium%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zenkalium@gmail.com)
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a full-stack developer with a background in marine biology and orchestral percussionist, who stumbled upon the unlimited possibilities within software engineering. I build apps that scratch my own itches, mostly community-based such as media trackers etc.
+I'm a full-stack developer with a background in marine biology and orchestral percussionist, who stumbled upon the unlimited possibilities within software engineering. I build apps that scratch my own itches, mostly community-based — media trackers, quiz games, and a logistics platform for an orchestra.
 
 - 🎓 Graduated from **Hacktiv8** Full Stack JavaScript Bootcamp
 - 🏠 Based in **South Jakarta, Indonesia**
@@ -39,6 +39,7 @@ I'm a full-stack developer with a background in marine biology and orchestral pe
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
 [![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)
+[![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
 [![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)
 [![GraphQL](https://skillicons.dev/icons?i=graphql)](https://graphql.org)
@@ -51,8 +52,10 @@ I'm a full-stack developer with a background in marine biology and orchestral pe
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
 [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
 [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
+[![Sentry](https://skillicons.dev/icons?i=sentry)](https://sentry.io)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com)
 [![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io)
+[![Vitest](https://skillicons.dev/icons?i=vitest)](https://vitest.dev)
 [![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev)
 
 ---
@@ -61,8 +64,9 @@ I'm a full-stack developer with a background in marine biology and orchestral pe
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [🎻 BATON](https://baton-osui.vercel.app) | Instrument inventory & lending platform for a university orchestra — prefilled contract PDFs, deposit tracking, Google Drive archive | Next.js, TypeScript, Prisma, PostgreSQL, Puppeteer |
+| [📈 InsightIQ](https://insightiq-94.vercel.app) | AI platform for TikTok affiliate creators — niche analysis, product recommendations, and daily Telegram digests | Next.js, TypeScript, MongoDB, Gemini AI, Telegram Bot API |
 | [🎌 Questivate](https://questiv8.vercel.app) | Media collection tracker for anime, manga & games with AI-powered discovery | React, Redux, Express, PostgreSQL, Gemini AI |
-| [💬 Wordivate](https://wordiv-8.web.app) | Real-time multiplayer word quiz where Gemini generates and grades questions | React, Socket.IO, D3, Express |
 | [🛍️ Pundak](https://pundak.vercel.app) | Full-stack e-commerce storefront with SSR product pages and wishlist | Next.js, TypeScript, MongoDB |
 
 ---
@@ -74,11 +78,5 @@ I'm a full-stack developer with a background in marine biology and orchestral pe
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadjutrzenka&theme=tokyonight)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmadjutrzenka&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
 
 </div>
