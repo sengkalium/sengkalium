@@ -64,7 +64,7 @@ I'm a full-stack developer with a background in marine biology and orchestral pe
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🎻 BATON](https://baton-osui.vercel.app) | Instrument inventory & lending platform for a university orchestra — prefilled contract PDFs, deposit tracking, Google Drive archive | Next.js, TypeScript, Prisma, PostgreSQL, Puppeteer |
+| [🎻 BATON](https://baton.my.id) | Instrument inventory & lending platform for a university orchestra — prefilled contract PDFs, deposit tracking, Google Drive archive | Next.js, TypeScript, Prisma, PostgreSQL, Puppeteer |
 | [📈 InsightIQ](https://insightiq-94.vercel.app) | AI platform for TikTok affiliate creators — niche analysis, product recommendations, and daily Telegram digests | Next.js, TypeScript, MongoDB, Gemini AI, Telegram Bot API |
 | [🎌 Questivate](https://questiv8.vercel.app) | Media collection tracker for anime, manga & games with AI-powered discovery | React, Redux, Express, PostgreSQL, Gemini AI |
 | [🛍️ Pundak](https://pundak.vercel.app) | Full-stack e-commerce storefront with SSR product pages and wishlist | Next.js, TypeScript, MongoDB |
@@ -75,8 +75,8 @@ I'm a full-stack developer with a background in marine biology and orchestral pe
 
 <div align="center">
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadjutrzenka&theme=tokyonight)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sengkalium&theme=tokyonight)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmadjutrzenka&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sengkalium&theme=tokyonight)
 
 </div>
