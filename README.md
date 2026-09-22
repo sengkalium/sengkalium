@@ -15,6 +15,7 @@
 
 I'm a full-stack developer with a background in marine biology and orchestral percussionist, who stumbled upon the unlimited possibilities within software engineering. I build apps that scratch my own itches, mostly community-based — media trackers, quiz games, and a logistics platform for an orchestra.
 
+- 💼 Currently **IT Delivery** at [Cekat.ai](https://cekat.ai) — AI agent + omnichannel CRM platform
 - 🎓 Graduated from **Hacktiv8** Full Stack JavaScript Bootcamp
 - 🏠 Based in **South Jakarta, Indonesia**
 
